@@ -91,6 +91,7 @@ and John Vlissides.
 - _The Pragmatic Programmer_ of Andrew Hunt, and David Thomas.
 - _Arquitetura Limpa_ of Robert Martin.
 - _Version Control With Git_ of Prem Kumar Ponuthorai, and Jon Loeliger.
+- _Gradle in Action_ of Benjamin Muschko.
 
 # Analytical Geometry
 
