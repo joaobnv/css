@@ -23,7 +23,6 @@ Montgomery and George Runger.
 # Number Theory
 
 - reading the book _Elements of Number Theory_ of I. M. Vinogradov.
-- watching the course [Introdução à Teoria dos Números](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTgpSW1-G6Yxo8Dp4aPhk9A).
 
 # Database Fundamentals
 

@@ -59,6 +59,10 @@ In sections titled _Online Courses_ I list courses that I watched, but only free
 
 - _Elementary Number Theory_ of David Burton.
 
+## Online Courses
+
+- [Introdução à Teoria dos Números](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTgpSW1-G6Yxo8Dp4aPhk9A).
+
 # Abstract Algebra
 
 ## Books
