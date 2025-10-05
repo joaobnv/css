@@ -180,6 +180,10 @@ and John Vlissides.
 
 ## Online Courses
 
+- [Statistics](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0).
+
+## Online Courses
+
 - [Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
 
 # Database Fundamentals

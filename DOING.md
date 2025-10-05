@@ -13,7 +13,6 @@ Ronald Rivest, and Clifford Stein.
 - reading the book _Estatística aplicada e probabilidade para engenheiros_ of Douglas
 Montgomery and George Runger.
 - reading the book _Introdução à Estatística_ of Mario F. Triola.
-- watching the course [Statistics](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0).
 
 # Compiler Construction
 
