@@ -17,7 +17,7 @@ Montgomery and George Runger.
 # Compiler Construction
 
 - reading the book _Writing Compilers and Interpreters: A Software Engineering Approach_ of Ronald Mak.
-- developing the project [lan](https://github.com/joaobnv/lan).
+- developing the project [mel](https://github.com/joaobnv/mel).
 
 # Number Theory
 
