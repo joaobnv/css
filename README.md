@@ -191,3 +191,9 @@ and John Vlissides.
 - _PostgreSQL Query Optimization The Ultmate Guide to Building Efficient Queries_ of Henrietta Dombrovskaya, Boris Novikov, 
 and Anna Bailliekova.
 - _Sistema de Banco de Dados_ of Abraham Silberschatz, Henry Korth, and S Sudarshan.
+
+# Software Documentation
+
+## Books
+
+- _Como Escrever Bem_ of William Zinsser.
