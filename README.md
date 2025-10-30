@@ -190,3 +190,4 @@ and John Vlissides.
 - _Patterns of Data Modeling_	of Michael Blaha.
 - _PostgreSQL Query Optimization The Ultmate Guide to Building Efficient Queries_ of Henrietta Dombrovskaya, Boris Novikov, 
 and Anna Bailliekova.
+- _Sistema de Banco de Dados_ of Abraham Silberschatz, Henry Korth, and S Sudarshan.

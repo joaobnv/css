@@ -22,7 +22,3 @@ Montgomery and George Runger.
 # Number Theory
 
 - reading the book _Elements of Number Theory_ of I. M. Vinogradov.
-
-# Database Fundamentals
-
-- reading the book _Sistema de Banco de Dados_ of Abraham Silberschatz, Henry Korth, and S Sudarshan.
