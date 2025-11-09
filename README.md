@@ -197,3 +197,10 @@ and Anna Bailliekova.
 ## Books
 
 - _Como Escrever Bem_ of William Zinsser.
+
+# Algorithms
+
+## Books
+
+- _Algoritmos - Teoria e Prática_ of Thomas Cormen, Charles Leiserson,
+Ronald Rivest, and Clifford Stein.

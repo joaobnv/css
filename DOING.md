@@ -4,8 +4,6 @@ Here I document some details about what I am currently studying in computer scie
 
 # Algorithms
 
-- reading the book _Algoritmos - Teoria e Prática_ of Thomas Cormen, Charles Leiserson,
-Ronald Rivest, and Clifford Stein.
 - watching the course [Introduction to Algorithms](https://www.youtube.com/playlist?list=PL8B24C31197EC371C).
 
 # Statistics and Probability
