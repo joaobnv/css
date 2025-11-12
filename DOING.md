@@ -8,15 +8,15 @@ Here I document some details about what I am currently studying in computer scie
 
 # Statistics and Probability
 
-- reading the book _Estatística aplicada e probabilidade para engenheiros_ of Douglas
+- reading the book _Estatística aplicada e probabilidade para engenheiros_ by Douglas
 Montgomery and George Runger.
-- reading the book _Introdução à Estatística_ of Mario F. Triola.
+- reading the book _Introdução à Estatística_ by Mario F. Triola.
 
 # Compiler Construction
 
-- reading the book _Writing Compilers and Interpreters: A Software Engineering Approach_ of Ronald Mak.
+- reading the book _Writing Compilers and Interpreters: A Software Engineering Approach_ by Ronald Mak.
 - developing the project [mel](https://github.com/joaobnv/mel).
 
 # Number Theory
 
-- reading the book _Elements of Number Theory_ of I. M. Vinogradov.
+- reading the book _Elements of Number Theory_ by I. M. Vinogradov.

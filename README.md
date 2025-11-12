@@ -9,14 +9,14 @@ In sections titled _Online Courses_ I list courses that I watched, but only free
 # Discrete Math
 
 ## Books
-- _Matemática Discreta_ of Edward Scheinerman.
+- _Matemática Discreta_ by Edward Scheinerman.
 
 # Linear Algebra
 
 ## Books
 
-- _Álgebra Linear_ of Seymour Lipschutz and Marc Lipson.
-- _Álgebra Linear_ of José Luiz Boldrini.
+- _Álgebra Linear_ by Seymour Lipschutz and Marc Lipson.
+- _Álgebra Linear_ by José Luiz Boldrini.
 
 ## Online Courses
 
@@ -26,9 +26,9 @@ In sections titled _Online Courses_ I list courses that I watched, but only free
 
 ## Books
 
-- _Cálculo_ of James Stewart, volume 1.
-- _Cálculo_ of James Stewart, volume 2.
-- _Pré-Cálculo Uma Preparação para o Cálculo_	of Sheldon Axler.
+- _Cálculo_ by James Stewart, volume 1.
+- _Cálculo_ by James Stewart, volume 2.
+- _Pré-Cálculo Uma Preparação para o Cálculo_ by Sheldon Axler.
 
 ## Online Courses
 
@@ -40,8 +40,8 @@ In sections titled _Online Courses_ I list courses that I watched, but only free
 
 # Books
 
-- _Compiladores - Princípios, Técnicas e Ferramentas_ of Alfred Aho, Ravi Sethi, Jeffrey Ullman, and Monica Lam.
-- _Modern Compiler Implementation in JAVA_ of Andrew Appel.
+- _Compiladores - Princípios, Técnicas e Ferramentas_ by Alfred Aho, Ravi Sethi, Jeffrey Ullman, and Monica Lam.
+- _Modern Compiler Implementation in JAVA_ by Andrew Appel.
 
 ## Online Courses
 
@@ -51,13 +51,13 @@ In sections titled _Online Courses_ I list courses that I watched, but only free
 
 ## Books
 
-- _Computer Science: An Overview_	of Glenn Brookshear, and Dennis Brylow.
+- _Computer Science: An Overview_ by Glenn Brookshear, and Dennis Brylow.
 
 # Number Theory
 
 ## Books
 
-- _Elementary Number Theory_ of David Burton.
+- _Elementary Number Theory_ by David Burton.
 
 ## Online Courses
 
@@ -67,7 +67,7 @@ In sections titled _Online Courses_ I list courses that I watched, but only free
 
 ## Books
 
-- _Elementos de Álgebra_ of Arnaldo Garcia, and Yves Albert Lequain.
+- _Elementos de Álgebra_ by Arnaldo Garcia, and Yves Albert Lequain.
 
 ## Online Courses
 
@@ -77,45 +77,45 @@ In sections titled _Online Courses_ I list courses that I watched, but only free
 
 ## Books
 
-- _Fundamentals of computer graphics_ of Steve Marschner, and Michael Ashikhmin.
+- _Fundamentals of computer graphics_ by Steve Marschner, and Michael Ashikhmin.
 
 # Programming
 
 ## Books
 
-- _Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ e java_ of Ana Fernanda Gomes Ascencio, and Edilene Aparecida Veneruchi de Campos.
-- _Padrões de Projeto - Soluções Reutilizaveis de Software Orientado a Objetos_ of Erich Gamma, Richard Helm, Ralph Johnson, 
+- _Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ e java_ by Ana Fernanda Gomes Ascencio, and Edilene Aparecida Veneruchi de Campos.
+- _Padrões de Projeto - Soluções Reutilizaveis de Software Orientado a Objetos_ by Erich Gamma, Richard Helm, Ralph Johnson, 
 and John Vlissides.
-- _Pro Git_ of Scott Chacon, and Ben Straub.
-- _Refatoração: Aperfeiçoando o Projeto de Código Existente_ of Martin Fowler.
-- _The Pragmatic Programmer_ of Andrew Hunt, and David Thomas.
-- _Arquitetura Limpa_ of Robert Martin.
-- _Version Control With Git_ of Prem Kumar Ponuthorai, and Jon Loeliger.
-- _Gradle in Action_ of Benjamin Muschko.
+- _Pro Git_ by Scott Chacon, and Ben Straub.
+- _Refatoração: Aperfeiçoando o Projeto de Código Existente_ by Martin Fowler.
+- _The Pragmatic Programmer_ by Andrew Hunt, and David Thomas.
+- _Arquitetura Limpa_ by Robert Martin.
+- _Version Control With Git_ by Prem Kumar Ponuthorai, and Jon Loeliger.
+- _Gradle in Action_ by Benjamin Muschko.
 
 # Analytical Geometry
 
 ## Books
 
-- _Geometria Analítica e Álgebra Linear_ of Elon Lages Lima.
+- _Geometria Analítica e Álgebra Linear_ by Elon Lages Lima.
 
 # Mobile App Development
 
 ## Books
 
-- _Google Android: Aprenda a Criar Aplicações para Dispositivos Móveis com o Android SDK_ of Ricardo Lecheta.
+- _Google Android: Aprenda a Criar Aplicações para Dispositivos Móveis com o Android SDK_ by Ricardo Lecheta.
 
 # Software Testing
 
 ## Books
 
-- _Introdução ao teste de software_ of Marcio Delamaro, Mario Jino, and Jose Maldonado.
+- _Introdução ao teste de software_ by Marcio Delamaro, Mario Jino, and Jose Maldonado.
 
 # Theory of Computation
 
 ## Books
 
-- _Introdução a Teoria da Computação_ of Michael Sipser.
+- _Introdução a Teoria da Computação_ by Michael Sipser.
 
 ## Online Courses
 
@@ -125,39 +125,39 @@ and John Vlissides.
 
 ## Books
 
-- _Introduction to Graph Theory_ of Richard Trudeau.
+- _Introduction to Graph Theory_ by Richard Trudeau.
 
 # Logic
 
 ## Books
 
-- _Mathematical Logic for Computer Science_ of Mordechai Ben-Ari.
+- _Mathematical Logic for Computer Science_ by Mordechai Ben-Ari.
 
 # Programming Languages
 
 ## Books
 
-- _Programming Language Pragmatics_ of Michael Scott.
+- _Programming Language Pragmatics_ by Michael Scott.
 
 # Computer Networks
 
 ## Books
 
-- _Redes de Computadores_ of Andrew Stuart Tanenbaum, Nick Feamster, and David Wetherall.
-- _Comunicação de Dados e Redes de Computadores_ of Behrouz Forouzan.
+- _Redes de Computadores_ by Andrew Stuart Tanenbaum, Nick Feamster, and David Wetherall.
+- _Comunicação de Dados e Redes de Computadores_ by Behrouz Forouzan.
 
 # Digital Circuits
 
 ## Books
 
-- _Sistemas Digitais: Princípios e Aplicações_ of Ronald Tocci, Neal Widmer, and Gregory Moss.
+- _Sistemas Digitais: Princípios e Aplicações_ by Ronald Tocci, Neal Widmer, and Gregory Moss.
 
 # WEB Development
 
 ## Books
 
 - _CSS The Definitive Guide_            of Eric Meyer, and Estelle Weyl.
-- _HTML and XHTML The Definitive Guide_ of Chuck Musciano, and Bill Kennedy.
+- _HTML and XHTML The Definitive Guide_ by Chuck Musciano, and Bill Kennedy.
 - _HTTP The Definitive Guide_           of David Gourley, and Brian Totty.
 - _JavaScript The Definitive Guide_     of David Flanagan.
 - _Learning HTTP/2_	                    of Stephen Ludin, and Javier Garza.
@@ -169,14 +169,14 @@ and John Vlissides.
 
 ## Books
 
-- _Geometry_ of Roger Fenn.
-- _The Foundation of Geometry_ of David Hilbert.
+- _Geometry_ by Roger Fenn.
+- _The Foundation of Geometry_ by David Hilbert.
 
 # Statistics and Probability
 
 ## Books
 
-- _Introduction to Probability_	of Dimitri Bertsekas, and John Tsitsiklis.
+- _Introduction to Probability_ by Dimitri Bertsekas, and John Tsitsiklis.
 
 ## Online Courses
 
@@ -187,20 +187,20 @@ and John Vlissides.
 
 ## Books
 
-- _Patterns of Data Modeling_	of Michael Blaha.
-- _PostgreSQL Query Optimization The Ultmate Guide to Building Efficient Queries_ of Henrietta Dombrovskaya, Boris Novikov, 
+- _Patterns of Data Modeling_ by Michael Blaha.
+- _PostgreSQL Query Optimization The Ultmate Guide to Building Efficient Queries_ by Henrietta Dombrovskaya, Boris Novikov, 
 and Anna Bailliekova.
-- _Sistema de Banco de Dados_ of Abraham Silberschatz, Henry Korth, and S Sudarshan.
+- _Sistema de Banco de Dados_ by Abraham Silberschatz, Henry Korth, and S Sudarshan.
 
 # Software Documentation
 
 ## Books
 
-- _Como Escrever Bem_ of William Zinsser.
+- _Como Escrever Bem_ by William Zinsser.
 
 # Algorithms
 
 ## Books
 
-- _Algoritmos - Teoria e Prática_ of Thomas Cormen, Charles Leiserson,
+- _Algoritmos - Teoria e Prática_ by Thomas Cormen, Charles Leiserson,
 Ronald Rivest, and Clifford Stein.
