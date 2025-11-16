@@ -156,14 +156,14 @@ and John Vlissides.
 
 ## Books
 
-- _CSS The Definitive Guide_            of Eric Meyer, and Estelle Weyl.
+- _CSS The Definitive Guide_ by Eric Meyer, and Estelle Weyl.
 - _HTML and XHTML The Definitive Guide_ by Chuck Musciano, and Bill Kennedy.
-- _HTTP The Definitive Guide_           of David Gourley, and Brian Totty.
-- _JavaScript The Definitive Guide_     of David Flanagan.
-- _Learning HTTP/2_	                    of Stephen Ludin, and Javier Garza.
-- _Node Essencial_                      of Ricardo Lecheta.
-- _Rest API Design Rulebook_            of Mark Masse.
-- _RestFull Web Apis_	                  of Mike Amundsen, and Sam Ruby.
+- _HTTP The Definitive Guide_ by David Gourley, and Brian Totty.
+- _JavaScript The Definitive Guide_ by David Flanagan.
+- _Learning HTTP/2_ by Stephen Ludin, and Javier Garza.
+- _Node Essencial_ by Ricardo Lecheta.
+- _Rest API Design Rulebook_ by Mark Masse.
+- _RestFull Web Apis_ by Mike Amundsen, and Sam Ruby.
 
 # Geometry
 
@@ -177,6 +177,8 @@ and John Vlissides.
 ## Books
 
 - _Introduction to Probability_ by Dimitri Bertsekas, and John Tsitsiklis.
+- _Estatística aplicada e probabilidade para engenheiros_ by Douglas
+Montgomery and George Runger.
 
 ## Online Courses
 

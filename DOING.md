@@ -8,8 +8,6 @@ Here I document some details about what I am currently studying in computer scie
 
 # Statistics and Probability
 
-- reading the book _Estatística aplicada e probabilidade para engenheiros_ by Douglas
-Montgomery and George Runger.
 - reading the book _Introdução à Estatística_ by Mario F. Triola.
 
 # Compiler Construction
