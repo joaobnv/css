@@ -21,12 +21,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Measure, Integration & Real Analysis_ by Sheldon Axler.
 
-# Programming
-
-## Books
-
-- _Código Limpo_ by Robert Martin.
-
 # Data Visualization
 
 ## Books
