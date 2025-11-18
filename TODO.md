@@ -301,3 +301,13 @@ Here I document some details about what I intend to study. The items are ordered
 ## Books
 
 - _Estrutura de Dados e Algoritmos em C++_ by Adam Drozdek.
+
+# Mathematics for Computer Science
+
+## Courses
+
+- [Mathematics for Computer Science](https://www.youtube.com/playlist?list=PLUl4u3cNGP61VNvICqk2HXJTonnKgAc9d)
+
+## Books
+
+- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
