@@ -311,3 +311,9 @@ Here I document some details about what I intend to study. The items are ordered
 ## Books
 
 - [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+
+# Linear Algebra 
+
+## Courses
+
+- [Álgebra Linear 1](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
