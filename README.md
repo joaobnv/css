@@ -4,6 +4,7 @@ Here I document some details about my study of computer science.
 CSS = *C*omputer *S*cience *S*tudy.
 
 In sections titled _Books_ I list books I've read.
+In sections titled _Articles_ I list articles I've read.
 In sections titled _Online Courses_ I list courses that I watched, but only free courses.
 
 # Discrete Math
@@ -206,3 +207,8 @@ and Anna Bailliekova.
 
 - _Algoritmos - Teoria e Prática_ by Thomas Cormen, Charles Leiserson,
 Ronald Rivest, and Clifford Stein.
+
+## Articles
+
+- [_Cache-Oblivious Algorithms and Data Structures_](https://erikdemaine.org/papers/BRICS2002/paper.pdf)
+  by Erik D. Demaine.
