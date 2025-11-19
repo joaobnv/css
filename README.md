@@ -212,3 +212,5 @@ Ronald Rivest, and Clifford Stein.
 
 - [_Cache-Oblivious Algorithms and Data Structures_](https://erikdemaine.org/papers/BRICS2002/paper.pdf)
   by Erik D. Demaine.
+- [A Minicourse on Dynamic Multithreaded Algorithms](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/41ba2bd0da08d73b8b211daa43a75be6_dyn_multi_alg.pdf)
+  by Charles Leiserson.
