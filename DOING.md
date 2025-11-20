@@ -2,10 +2,6 @@
 
 Here I document some details about what I am currently studying in computer science.
 
-# Algorithms
-
-- watching the course [Introduction to Algorithms](https://www.youtube.com/playlist?list=PL8B24C31197EC371C).
-
 # Statistics and Probability
 
 - reading the book _Introdução à Estatística_ by Mario F. Triola.
