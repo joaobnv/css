@@ -5,6 +5,8 @@ Here I document some details about what I am currently studying in computer scie
 # Algorithms
 
 - watching the course [Introduction to Algorithms](https://www.youtube.com/playlist?list=PL8B24C31197EC371C).
+- reading the article [Lecture Notes on Skip Lists](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/c69eacf7b8344572d9ced8efff02f2b3_l12_skiplists.pdf)
+  by Erik D. Demaine.
 
 # Statistics and Probability
 
