@@ -33,12 +33,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Logic in Computer Science Modeling and Reasoning About Systems_ by Michael Huth, and Mark Ryan.
 
-# Software Engineering
-
-## Books
-
-- _Continuous Delivery_ by Jez Humble, and David Farley.
-
 # Machine Learning
 
 ## Books

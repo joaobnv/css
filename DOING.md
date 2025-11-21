@@ -15,3 +15,7 @@ Here I document some details about what I am currently studying in computer scie
 # Number Theory
 
 - reading the book _Elements of Number Theory_ by I. M. Vinogradov.
+
+# Software Engineering
+
+- reading the book _Continuous Delivery_ by Jez Humble, and David Farley.
