@@ -93,6 +93,7 @@ and John Vlissides.
 - _Arquitetura Limpa_ by Robert Martin.
 - _Version Control With Git_ by Prem Kumar Ponuthorai, and Jon Loeliger.
 - _Gradle in Action_ by Benjamin Muschko.
+- _Código Limpo_ by Robert Martin.
 
 # Analytical Geometry
 

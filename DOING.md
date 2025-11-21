@@ -15,7 +15,3 @@ Here I document some details about what I am currently studying in computer scie
 # Number Theory
 
 - reading the book _Elements of Number Theory_ by I. M. Vinogradov.
-
-# Programming
-
-- reading the book _Código Limpo_ by Robert Martin.
