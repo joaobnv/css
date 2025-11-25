@@ -59,6 +59,7 @@ In sections titled _Online Courses_ I list courses that I watched, but only free
 ## Books
 
 - _Elementary Number Theory_ by David Burton.
+- _Elements of Number Theory_ by I. M. Vinogradov.
 
 ## Online Courses
 

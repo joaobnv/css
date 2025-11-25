@@ -12,10 +12,6 @@ Here I document some details about what I am currently studying in computer scie
 - reading the book _Writing Compilers and Interpreters: A Software Engineering Approach_ by Ronald Mak.
 - developing the project [mel](https://github.com/joaobnv/mel).
 
-# Number Theory
-
-- reading the book _Elements of Number Theory_ by I. M. Vinogradov.
-
 # Software Engineering
 
 - reading the book _Continuous Delivery_ by Jez Humble, and David Farley.
