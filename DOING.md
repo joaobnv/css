@@ -15,3 +15,7 @@ Here I document some details about what I am currently studying in computer scie
 # Software Engineering
 
 - reading the book _Continuous Delivery_ by Jez Humble, and David Farley.
+
+# Geometry
+
+- watching the course [Geometria Plana](https://www.youtube.com/playlist?list=PLTPg64KdGgYhy8stGM4z2_Hzb3zTfA77Z).
