@@ -100,6 +100,10 @@ and John Vlissides.
 - _Gradle in Action_ by Benjamin Muschko.
 - _Código Limpo_ by Robert Martin.
 
+## Blogs
+
+- [The Go Blog](https://go.dev/blog/). Last post I read: [GopherCon 2014 Wrap Up](https://go.dev/blog/gophercon).
+
 # Analytical Geometry
 
 ## Books
