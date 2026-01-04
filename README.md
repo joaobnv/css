@@ -7,6 +7,8 @@ In sections titled _Books_ I list books that I've read.
 In sections titled _Articles_ I list articles that I've read.
 In sections titled _Online Courses_ I list courses that I watched, but only free courses.
 In sections titled _Playlists_ I list playlists of YouTube that I've watched.
+In sections titled _Blogs_ I list blogs that I am reading. In each blog I list the last post I read,
+meaning I've read everything from the first post up to the one listed.
 
 # Discrete Math
 
@@ -117,6 +119,10 @@ and John Vlissides.
 - [Android Throwback Tips and Demos](https://www.youtube.com/playlist?list=PL43E15866EF0033A2).
 - [Google I/O 08 to 11 - Android Sessions](https://www.youtube.com/playlist?list=PL734A052F802C96B9).
 - [Google I/O 12 - The Android Sessions](https://www.youtube.com/playlist?list=PL4C6BCDE45E05F49E).
+
+## Blogs
+
+- [Android Developers Blog](https://android-developers.googleblog.com/). Last post I read: [Life can be tough; here are a few SDK improvements to make it a little easier](https://android-developers.googleblog.com/2007/12/life-can-be-tough-here-are-few-sdk.html).
 
 # Software Testing
 
