@@ -223,6 +223,10 @@ and Anna Bailliekova.
 
 - _Como Escrever Bem_ by William Zinsser.
 
+## Courses
+
+- [_Ciclo Básico | Gramática da Língua Portuguesa I_](https://www.youtube.com/playlist?list=PLxI8Can9yAHfzHlGt4QSXAwHma0WpMmKT).
+
 # Algorithms
 
 ## Books
