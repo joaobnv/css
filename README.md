@@ -3,13 +3,15 @@ Here I document some details about my study of computer science.
 
 CSS = *C*omputer *S*cience *S*tudy.
 
-In sections titled _Books_ I list books I've read.
-In sections titled _Articles_ I list articles I've read.
+In sections titled _Books_ I list books that I've read.
+In sections titled _Articles_ I list articles that I've read.
 In sections titled _Online Courses_ I list courses that I watched, but only free courses.
+In sections titled _Playlists_ I list playlists of YouTube that I've watched.
 
 # Discrete Math
 
 ## Books
+
 - _Matemática Discreta_ by Edward Scheinerman.
 
 # Linear Algebra
@@ -107,6 +109,14 @@ and John Vlissides.
 ## Books
 
 - _Google Android: Aprenda a Criar Aplicações para Dispositivos Móveis com o Android SDK_ by Ricardo Lecheta.
+
+## Playlists
+
+- [One thing I like about Android...](https://www.youtube.com/playlist?list=PL8D19D01A9F4AA199).
+- [About the Platform](https://www.youtube.com/playlist?list=PL611F8C5DBF49CEC6).
+- [Android Throwback Tips and Demos](https://www.youtube.com/playlist?list=PL43E15866EF0033A2).
+- [Google I/O 08 to 11 - Android Sessions](https://www.youtube.com/playlist?list=PL734A052F802C96B9).
+- [Google I/O 12 - The Android Sessions](https://www.youtube.com/playlist?list=PL4C6BCDE45E05F49E).
 
 # Software Testing
 
