@@ -23,3 +23,4 @@ Here I document some details about what I am currently studying in computer scie
 # Software Documentation
 
 - reading the book _Moderna Gramática Portuguesa_ by Evanildo Bechara.
+- watching the course [Ciclo Básico | Gramática da Língua Portuguesa I](https://www.youtube.com/playlist?list=PLxI8Can9yAHfzHlGt4QSXAwHma0WpMmKT).
