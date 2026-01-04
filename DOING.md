@@ -19,3 +19,7 @@ Here I document some details about what I am currently studying in computer scie
 # Geometry
 
 - watching the course [Geometria Plana](https://www.youtube.com/playlist?list=PLTPg64KdGgYhy8stGM4z2_Hzb3zTfA77Z).
+
+# Software Documentation
+
+- reading the book _Moderna Gramática Portuguesa_ by Evanildo Bechara.
