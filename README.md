@@ -226,6 +226,7 @@ and Anna Bailliekova.
 ## Courses
 
 - [_Ciclo Básico | Gramática da Língua Portuguesa I_](https://www.youtube.com/playlist?list=PLxI8Can9yAHfzHlGt4QSXAwHma0WpMmKT).
+- [_Sintaxe_](https://www.youtube.com/playlist?list=PLVyIxkvuIqxrbG7evU6XiKoHdlz-NhaAI).
 
 ## Playlists
 
