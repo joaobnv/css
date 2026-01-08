@@ -227,6 +227,7 @@ and Anna Bailliekova.
 
 - [_Ciclo Básico | Gramática da Língua Portuguesa I_](https://www.youtube.com/playlist?list=PLxI8Can9yAHfzHlGt4QSXAwHma0WpMmKT).
 - [_Sintaxe_](https://www.youtube.com/playlist?list=PLVyIxkvuIqxrbG7evU6XiKoHdlz-NhaAI).
+- [_Curso sobre Gêneros Textuais \[Professor Noslen}_](https://www.youtube.com/playlist?list=PLVyIxkvuIqxpL2kQRhgdA-jeLMfVqO1ai).
 
 ## Playlists
 
