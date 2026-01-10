@@ -233,6 +233,7 @@ and Anna Bailliekova.
 
 - [Estudo do Som das Palavras](https://www.youtube.com/playlist?list=PLVyIxkvuIqxrTNuXWoZmfCfPtqPVXfNCv).
 - [Semântica \[Professor Noslen\]](https://www.youtube.com/playlist?list=PLVyIxkvuIqxpRumJiTBbk4sEBXS7d8izQ).
+- [Língua e Linguagem](https://www.youtube.com/playlist?list=PLVyIxkvuIqxoVenYp2sA1uvMYMaCTJI8q).
 
 # Algorithms
 
