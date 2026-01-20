@@ -202,6 +202,7 @@ and John Vlissides.
 - _Introduction to Probability_ by Dimitri Bertsekas, and John Tsitsiklis.
 - _Estatística aplicada e probabilidade para engenheiros_ by Douglas
 Montgomery and George Runger.
+- _Introdução à Estatística_ by Mario F. Triola.
 
 ## Online Courses
 

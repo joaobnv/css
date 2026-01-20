@@ -4,7 +4,6 @@ Here I document some details about what I am currently studying in computer scie
 
 # Statistics and Probability
 
-- reading the book _Introdução à Estatística_ by Mario F. Triola.
 - watching the course [Statistics for Applications](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0).
 
 # Compiler Construction
