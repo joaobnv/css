@@ -69,12 +69,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Algebra_ by Serge Lang.
 
-# Artificial Inteligence
-
-## Books
-
-- _Artificial Inteligence A Modern Approach_ by Stuart Russell, and Peter Norvig.
-
 # WEB Development
 
 ## Books
