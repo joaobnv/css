@@ -18,3 +18,7 @@ Here I document some details about what I am currently studying in computer scie
 # Software Documentation
 
 - reading the book _Moderna Gramática Portuguesa_ by Evanildo Bechara.
+
+# Artificial Inteligence
+
+- watching the course [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi).
