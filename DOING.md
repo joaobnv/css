@@ -2,10 +2,6 @@
 
 Here I document some details about what I am currently studying in computer science.
 
-# Statistics and Probability
-
-- watching the course [Statistics for Applications](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0).
-
 # Compiler Construction
 
 - reading the book _Writing Compilers and Interpreters: A Software Engineering Approach_ by Ronald Mak.

@@ -207,7 +207,8 @@ Montgomery and George Runger.
 ## Online Courses
 
 - [Statistics](https://www.youtube.com/playlist?list=PL5102DFDC6790F3D0).
-- [Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
+- [Probabilistic Systems Analysis and Applied Probability](https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8).
+- [Statistics for Applications](https://www.youtube.com/playlist?list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0).
 
 # Database Fundamentals
 
