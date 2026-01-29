@@ -23,3 +23,7 @@ Here I document some details about what I am currently studying in computer scie
 
 - watching the course [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi).
 - reading the book _Artificial Intelligence: A Modern Approach_ by Stuart Russell, and Peter Norvig.
+
+# Distributed Systems
+
+- reading the book _Distributed Systems: Principles and Paradigms_ by Andrew Stuart Tanenbaum, and Maarten Van Steen.
