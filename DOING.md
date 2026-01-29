@@ -27,3 +27,4 @@ Here I document some details about what I am currently studying in computer scie
 # Distributed Systems
 
 - reading the book _Distributed Systems: Principles and Paradigms_ by Andrew Stuart Tanenbaum, and Maarten Van Steen.
+- watching the course [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB).
