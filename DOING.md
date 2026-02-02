@@ -6,6 +6,7 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Writing Compilers and Interpreters: A Software Engineering Approach_ by Ronald Mak.
 - developing the project [mel](https://github.com/joaobnv/mel).
+- watching the course [CMPE 152: Compiler Design](https://www.cs.sjsu.edu/~mak/archive/CMPE152/index.html).
 
 # Software Engineering
 
