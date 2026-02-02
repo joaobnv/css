@@ -257,3 +257,9 @@ Ronald Rivest, and Clifford Stein.
 ## Online Courses
 
 - [Introduction to Algorithms](https://www.youtube.com/playlist?list=PL8B24C31197EC371C).
+
+## Legislation
+
+## Online Courses
+
+- [Gestão Pública | Direito Constitucional e Administrativo | 6º Bimestre](https://www.youtube.com/playlist?list=PLxI8Can9yAHdGJEO9ebjVX9qO1W66GIPN).
