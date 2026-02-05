@@ -261,6 +261,10 @@ Ronald Rivest, and Clifford Stein.
 
 ## Legislation
 
+## Playlists
+
+- [Direito Constitucional](https://www.youtube.com/playlist?list=PLUJ_HAEJs007qIgpWBsD4f0fyG4RWBHio).
+
 ## Online Courses
 
 - [Gestão Pública | Direito Constitucional e Administrativo | 6º Bimestre](https://www.youtube.com/playlist?list=PLxI8Can9yAHdGJEO9ebjVX9qO1W66GIPN).
