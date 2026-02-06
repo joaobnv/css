@@ -269,3 +269,4 @@ Ronald Rivest, and Clifford Stein.
 ## Online Courses
 
 - [Gestão Pública | Direito Constitucional e Administrativo | 6º Bimestre](https://www.youtube.com/playlist?list=PLxI8Can9yAHdGJEO9ebjVX9qO1W66GIPN).
+- [CF/88 - Princípios Fundamentais (arts. 1º a 4º)](https://www.youtube.com/playlist?list=PLD7176F663E049907).
