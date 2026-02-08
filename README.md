@@ -265,6 +265,7 @@ Ronald Rivest, and Clifford Stein.
 
 - [Direito Constitucional](https://www.youtube.com/playlist?list=PLUJ_HAEJs007qIgpWBsD4f0fyG4RWBHio).
 - [Lei de Licitações (14.133/21)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnAZ_izQGk5BsJYCvXhjM5O).
+- [CF88 - Direitos Sociais (Arts. 6º a 11)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnuT18wUhvJn5xue7HauG7A).
 
 ## Online Courses
 
