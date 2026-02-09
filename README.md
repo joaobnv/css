@@ -272,3 +272,4 @@ Ronald Rivest, and Clifford Stein.
 - [Gestão Pública | Direito Constitucional e Administrativo | 6º Bimestre](https://www.youtube.com/playlist?list=PLxI8Can9yAHdGJEO9ebjVX9qO1W66GIPN).
 - [CF/88 - Princípios Fundamentais (arts. 1º a 4º)](https://www.youtube.com/playlist?list=PLD7176F663E049907).
 - [CF/88 - Art. 5º (Direitos e Deveres Individuais e Coletivos)](https://www.youtube.com/playlist?list=PL6B30BCCD17109250).
+- [CF/88 - Nacionalidade (Arts. 12 e 13)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnXTz2nq4RTlSxSJqx-k_oV).
