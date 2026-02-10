@@ -243,8 +243,7 @@ and Anna Bailliekova.
 
 ## Books
 
-- _Algoritmos - Teoria e Prática_ by Thomas Cormen, Charles Leiserson,
-Ronald Rivest, and Clifford Stein.
+- _Algoritmos - Teoria e Prática_ by Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein.
 
 ## Articles
 
@@ -275,3 +274,9 @@ Ronald Rivest, and Clifford Stein.
 - [CF/88 - Nacionalidade (Arts. 12 e 13)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnXTz2nq4RTlSxSJqx-k_oV).
 - [CF88 - Direitos Políticos (Arts. 14 a 16)](https://www.youtube.com/playlist?list=PLhTKk53U8pNmJQCXEWEXYzxBfX82vYuJC).
 - [CF88 - Partidos Políticos](https://www.youtube.com/playlist?list=PLhTKk53U8pNldtqZwgO6Ia_i88FVCAHap).
+
+# Software Engineering
+
+## Books
+
+- _Continuous Delivery_ by Jez Humble, and David Farley.
