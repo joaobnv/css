@@ -265,6 +265,7 @@ and Anna Bailliekova.
 - [Direito Constitucional](https://www.youtube.com/playlist?list=PLUJ_HAEJs007qIgpWBsD4f0fyG4RWBHio).
 - [Lei de Licitações (14.133/21)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnAZ_izQGk5BsJYCvXhjM5O).
 - [CF88 - Direitos Sociais (Arts. 6º a 11)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnuT18wUhvJn5xue7HauG7A).
+- [CF88 - Organização do Estado (Arts. 18 a 43)](https://www.youtube.com/playlist?list=PLhTKk53U8pNlC2F1gV6aPIj5ABg7eQTaK).
 
 ## Online Courses
 
