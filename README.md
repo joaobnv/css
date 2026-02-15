@@ -3,12 +3,15 @@ Here I document some details about my study of computer science.
 
 CSS = *C*omputer *S*cience *S*tudy.
 
-In sections titled _Books_ I list books that I've read.
-In sections titled _Articles_ I list articles that I've read.
-In sections titled _Online Courses_ I list courses that I watched, but only free courses.
-In sections titled _Playlists_ I list playlists of YouTube that I've watched.
-In sections titled _Blogs_ I list blogs that I am reading. In each blog I list the last post I read,
+The meaning of each section is as follows:
+- _Books_: books that I've read.
+- _Articles_: articles that I've read.
+- _Online Courses_: courses that I watched, but only free courses.
+- _Playlists_: playlists of YouTube that I've watched.
+- _Blogs_: blogs that I am reading. In each blog I list the last post I read,
 meaning I've read everything from the first post up to the one listed.
+- _GitHub Issues_: GitHub issues that I am reading. In each issue I list the
+last comment I read, meaning I've read everything from the first comment up to the one listed.
 
 # Discrete Math
 
@@ -43,7 +46,7 @@ meaning I've read everything from the first post up to the one listed.
 
 # Compiler Construction
 
-# Books
+## Books
 
 - _Compiladores - Princípios, Técnicas e Ferramentas_ by Alfred Aho, Ravi Sethi, Jeffrey Ullman, and Monica Lam.
 - _Modern Compiler Implementation in JAVA_ by Andrew Appel.
@@ -103,6 +106,10 @@ and John Vlissides.
 ## Blogs
 
 - [The Go Blog](https://go.dev/blog/). Last post I read: [GopherCon 2014 Wrap Up](https://go.dev/blog/gophercon).
+
+## GitHub Issues
+
+- _proposal: spec: generic methods for Go_. Last comment I read: [issuecomment-3892750103](https://github.com/golang/go/issues/77273#issuecomment-3892750103). 
 
 # Analytical Geometry
 
