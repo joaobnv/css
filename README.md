@@ -265,7 +265,7 @@ and Anna Bailliekova.
 
 - [Introduction to Algorithms](https://www.youtube.com/playlist?list=PL8B24C31197EC371C).
 
-## Legislation
+# Legislation
 
 ## Playlists
 
@@ -282,6 +282,7 @@ and Anna Bailliekova.
 - [CF/88 - Nacionalidade (Arts. 12 e 13)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnXTz2nq4RTlSxSJqx-k_oV).
 - [CF88 - Direitos Políticos (Arts. 14 a 16)](https://www.youtube.com/playlist?list=PLhTKk53U8pNmJQCXEWEXYzxBfX82vYuJC).
 - [CF88 - Partidos Políticos](https://www.youtube.com/playlist?list=PLhTKk53U8pNldtqZwgO6Ia_i88FVCAHap).
+- [Lei 8.112/90 - Estatuto dos Servidores Civis da União](https://www.youtube.com/playlist?list=PLhTKk53U8pNmxilTvy1SUAWXkm-QpdbyP).
 
 # Software Engineering
 
