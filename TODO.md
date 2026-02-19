@@ -39,12 +39,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Machine Learning An Artificial Intelligence Approach_ by Ryszard Michalski, Jaime Carbonell, and Tom Mitchell.
 
-# Concurrent Programming
-
-## Books
-
-- _Foundations of Multithreaded, Parallel, and Distributed Programming_ by Gregory Andrews.
-
 # Database Fundamentals
 
 ## Books

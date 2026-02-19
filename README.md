@@ -109,7 +109,7 @@ and John Vlissides.
 
 ## GitHub Issues
 
-- _proposal: spec: generic methods for Go_. Last comment I read: [issuecomment-3892750103](https://github.com/golang/go/issues/77273#issuecomment-3892750103). 
+- _proposal: spec: generic methods for Go_. Last comment I read: [issuecomment-3924250746](https://github.com/golang/go/issues/77273#issuecomment-3924250746). 
 
 # Analytical Geometry
 
