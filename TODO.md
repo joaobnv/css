@@ -39,12 +39,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Machine Learning An Artificial Intelligence Approach_ by Ryszard Michalski, Jaime Carbonell, and Tom Mitchell.
 
-# Database Fundamentals
-
-## Books
-
-- _Sistemas de Banco de Dados_ by Ramez Elmasri, and Shamkant Navathe.
-
 # Compiler Construction
 
 ## Books

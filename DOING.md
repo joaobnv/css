@@ -29,3 +29,7 @@ Here I document some details about what I am currently studying in computer scie
 # Concurrent Programming
 
 - reading the book _Foundations of Multithreaded, Parallel, and Distributed Programming_ by Gregory Andrews.
+
+# Database Fundamentals
+
+- reading the book _Sistemas de Banco de Dados_ by Ramez Elmasri, and Shamkant Navathe.
