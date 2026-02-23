@@ -43,3 +43,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Sistemas de Banco de Dados_ by Ramez Elmasri, and Shamkant Navathe.<br/>
 ![progress](images/sbd.svg)
+
+# Software Engineering
+
+- reading the book _O Codificador Limpo_ by Robert Martin.
+![progress](images/ocl.svg)

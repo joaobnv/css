@@ -63,12 +63,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _XML Pocket Reference_ by Simon Laurent, and Michael Fitzgerald.
 
-# Software Engineering
-
-## Books
-
-- _O Codificador Limpo_ by Robert Martin.
-
 # CLI Development
 
 ## Books
