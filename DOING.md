@@ -46,5 +46,10 @@ Here I document some details about what I am currently studying in computer scie
 
 # Software Engineering
 
-- reading the book _O Codificador Limpo_ by Robert Martin.
+- reading the book _O Codificador Limpo_ by Robert Martin.<br/>
 ![progress](images/ocl.svg)
+
+# WEB Development
+
+- reading the book _Learning XML_ by Erik Ray.<br/>
+![progress](images/lx.svg)

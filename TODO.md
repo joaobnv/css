@@ -224,12 +224,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _OLAP Solutions_ by Erik Thomsen.
 
-# WEB Development
-
-## Books
-
-- _Learning XML_ by Erik Ray.
-
 # Software Engineering
 
 ## Books
