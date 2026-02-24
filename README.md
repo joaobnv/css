@@ -284,6 +284,7 @@ and Anna Bailliekova.
 - [CF88 - Direitos Políticos (Arts. 14 a 16)](https://www.youtube.com/playlist?list=PLhTKk53U8pNmJQCXEWEXYzxBfX82vYuJC).
 - [CF88 - Partidos Políticos](https://www.youtube.com/playlist?list=PLhTKk53U8pNldtqZwgO6Ia_i88FVCAHap).
 - [Lei 8.112/90 - Estatuto dos Servidores Civis da União](https://www.youtube.com/playlist?list=PLhTKk53U8pNmxilTvy1SUAWXkm-QpdbyP).
+- [LAI - Lei 12.527/11 (Lei de Acesso à Informação)](https://www.youtube.com/playlist?list=PLhTKk53U8pNkZoy9f8108a16ygI3yn0v6).
 
 # Software Engineering
 
