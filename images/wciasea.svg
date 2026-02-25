@@ -1,5 +1,5 @@
 <svg width="602" height="12" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="10" x="1" y="1" rx="5" ry="5" fill="#555" />
-  <rect width="402" height="10" x="1" y="1" rx="5" ry="5" fill="#151" /> <!-- 6 * 67 -->
+  <rect width="600" height="6" x="1" y="1" rx="3" ry="3" fill="#555" />
+  <rect width="402" height="6" x="1" y="1" rx="3" ry="3" fill="#151" /> <!-- 6 * 67 -->
 </svg>
 <!-- 100 pages equals 5040 positions -->
