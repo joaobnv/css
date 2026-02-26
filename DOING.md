@@ -19,6 +19,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Moderna Gramática Portuguesa_ by Evanildo Bechara.<br/>
 ![progress](images/mgp.svg)
+- reading the CTAN document _PGF Manual_ by Till Tantau.<br/>
+![progress](images/pgfm.svg)
 
 # Artificial Inteligence
 
