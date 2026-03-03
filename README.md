@@ -109,8 +109,8 @@ and John Vlissides.
 
 ## GitHub Issues
 
-- _proposal: spec: generic methods for Go_. Last comment I read: [issuecomment-3941070405](https://github.com/golang/go/issues/77273#issuecomment-3941070405). 
-- _proposal: spec: type inferred composite literals_. Last comment I read: [issuecomment-370113901](https://github.com/golang/go/issues/12854#issuecomment-370113901).
+- _proposal: spec: generic methods for Go_. Last comment I read: [issuecomment-3962618141](https://github.com/golang/go/issues/77273#issuecomment-3962618141). 
+- _proposal: spec: type inferred composite literals_. Last comment I read: [issuecomment-697198835](https://github.com/golang/go/issues/12854#issuecomment-697198835).
 
 # Analytical Geometry
 
@@ -274,6 +274,7 @@ and Anna Bailliekova.
 - [Lei de Licitações (14.133/21)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnAZ_izQGk5BsJYCvXhjM5O).
 - [CF88 - Direitos Sociais (Arts. 6º a 11)](https://www.youtube.com/playlist?list=PLhTKk53U8pNnuT18wUhvJn5xue7HauG7A).
 - [CF88 - Organização do Estado (Arts. 18 a 43)](https://www.youtube.com/playlist?list=PLhTKk53U8pNlC2F1gV6aPIj5ABg7eQTaK).
+- [LGPD - Lei 13.709/2018](https://www.youtube.com/playlist?list=PLhTKk53U8pNkiHSUTmN7rNIr84-FHvVkf).
 
 ## Online Courses
 
