@@ -110,7 +110,7 @@ and John Vlissides.
 ## GitHub Issues
 
 - _proposal: spec: generic methods for Go_. Last comment I read: [issuecomment-3962618141](https://github.com/golang/go/issues/77273#issuecomment-3962618141). 
-- _proposal: spec: type inferred composite literals_. Last comment I read: [issuecomment-697198835](https://github.com/golang/go/issues/12854#issuecomment-697198835).
+- _proposal: spec: type inferred composite literals_. Last comment I read: [issuecomment-821091843](https://github.com/golang/go/issues/12854#issuecomment-821091843).
 
 # Analytical Geometry
 
@@ -286,6 +286,7 @@ and Anna Bailliekova.
 - [CF88 - Partidos Políticos](https://www.youtube.com/playlist?list=PLhTKk53U8pNldtqZwgO6Ia_i88FVCAHap).
 - [Lei 8.112/90 - Estatuto dos Servidores Civis da União](https://www.youtube.com/playlist?list=PLhTKk53U8pNmxilTvy1SUAWXkm-QpdbyP).
 - [LAI - Lei 12.527/11 (Lei de Acesso à Informação)](https://www.youtube.com/playlist?list=PLhTKk53U8pNkZoy9f8108a16ygI3yn0v6).
+- [Lei 9.784/99 - Lei do Processo Administrativo](https://www.youtube.com/playlist?list=PLhTKk53U8pNnfufLLx87OeUQugM6w0uOV).
 
 # Software Engineering
 
