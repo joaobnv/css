@@ -1,4 +1,5 @@
-<svg width="602" height="12" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="6" x="1" y="1" rx="3" ry="3" fill="#555" />
-  <rect width="374" height="6" x="1" y="1" rx="3" ry="3" fill="#151" /> <!-- 17 * 22 -->
+<svg width="650" height="12" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="6" x="1" y="3" rx="3" ry="3" fill="#555" />
+  <text x="610" y="12" textLength="30" fill="#AAA" lengthAdjust="">17/28</text>
+  <rect width="374" height="6" x="1" y="3" rx="3" ry="3" fill="#151" /> <!-- 17 * 22 -->
 </svg>

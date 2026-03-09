@@ -4,7 +4,7 @@ Here I document some details about what I am currently studying in computer scie
 
 # Compiler Construction
 
-- reading the book _Writing Compilers and Interpreters: A Software Engineering Approach_ by Ronald Mak.
+- reading the book _Writing Compilers and Interpreters: A Software Engineering Approach_ by Ronald Mak.<br/>
 ![progress](images/wciasea.svg)
 - developing the project [mel](https://github.com/joaobnv/mel).
 - watching the course [CMPE 152: Compiler Design](https://www.cs.sjsu.edu/~mak/archive/CMPE152/index.html).<br/>
@@ -36,6 +36,11 @@ Here I document some details about what I am currently studying in computer scie
 - watching the course [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB).<br/>
 ![progress](images/dsc.svg)
 
+# WEB Development
+
+- reading the book _Learning XML_ by Erik Ray.<br/>
+![progress](images/lx.svg)
+
 # Concurrent Programming
 
 - reading the book _Foundations of Multithreaded, Parallel, and Distributed Programming_ by Gregory Andrews.<br/>
@@ -50,8 +55,3 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _O Codificador Limpo_ by Robert Martin.<br/>
 ![progress](images/ocl.svg)
-
-# WEB Development
-
-- reading the book _Learning XML_ by Erik Ray.<br/>
-![progress](images/lx.svg)
