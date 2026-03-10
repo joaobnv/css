@@ -50,8 +50,11 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Sistemas de Banco de Dados_ by Ramez Elmasri, and Shamkant Navathe.<br/>
 ![progress](images/sbd.svg)
+- reading the book _NoSQL Essencial Um Guia Conciso para o Mundo Emergente da Persistência Poliglota_ by Pramod Sadalage, and Martin Fowler.<br/>
+![progress](images/nse.svg)
 
 # Software Engineering
 
 - reading the book _O Codificador Limpo_ by Robert Martin.<br/>
 ![progress](images/ocl.svg)
+

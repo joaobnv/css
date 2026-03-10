@@ -69,12 +69,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Windows PowerShell for Developers_ by Douglas Finke.
 
-# Database Fundamentals
-
-## Books
-
-- _NoSQL Essencial Um Guia Conciso para o Mundo Emergente da Persistência Poliglota_ by Pramod Sadalage, and Martin Fowler.
-
 # Programming
 
 ## Books
