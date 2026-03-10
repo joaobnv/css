@@ -294,3 +294,4 @@ and Anna Bailliekova.
 ## Books
 
 - _Continuous Delivery_ by Jez Humble, and David Farley.
+- _O Codificador Limpo_ by Robert Martin.
