@@ -52,3 +52,8 @@ Here I document some details about what I am currently studying in computer scie
 ![progress](images/sbd.svg)
 - reading the book _NoSQL Essencial Um Guia Conciso para o Mundo Emergente da Persistência Poliglota_ by Pramod Sadalage, and Martin Fowler.<br/>
 ![progress](images/nse.svg)
+
+# Foundations of Mathematics
+
+- reading the book _The Foundations of Mathematics_ by Ian Stewart, and David Tall.<br/>
+![progress](images/tfm.svg)

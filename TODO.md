@@ -138,12 +138,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Lex and Yacc_ by Doug Brown, John Levine, and Tony Mason.
 
-# Foundations of Mathematics
-
-## Books
-
-- _The Foundations of Mathematics_ by Ian Stewart, and David Tall.
-
 # WEB Programming
 
 ## Books
