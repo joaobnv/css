@@ -73,7 +73,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 ## Books
 
-- _Padrões JavaScript_ by Stoyan Stefanov.
 - _JavaScript de Alto Desempenho_ by Nicholas Zakas.
 - _The Pratice of Programming_ by Brian Kerninghan, and Rob Pike.
 

@@ -57,3 +57,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _The Foundations of Mathematics_ by Ian Stewart, and David Tall.<br/>
 ![progress](images/tfm.svg)
+
+# Programming
+
+- reading the book _Padrões JavaScript_ by Stoyan Stefanov.<br/>
+![progress](images/pjs.svg)
