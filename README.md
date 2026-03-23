@@ -226,6 +226,7 @@ Montgomery and George Runger.
 - _PostgreSQL Query Optimization The Ultmate Guide to Building Efficient Queries_ by Henrietta Dombrovskaya, Boris Novikov, 
 and Anna Bailliekova.
 - _Sistema de Banco de Dados_ by Abraham Silberschatz, Henry Korth, and S Sudarshan.
+- _NoSQL Essencial Um Guia Conciso para o Mundo Emergente da Persistência Poliglota_ by Pramod Sadalage, and Martin Fowler.
 
 # Software Documentation
 
