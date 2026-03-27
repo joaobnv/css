@@ -62,3 +62,8 @@ Here I document some details about what I am currently studying in computer scie
 ![progress](images/pjs.svg)
 - reading the book _JavaScript de Alto Desempenho_ by Nicholas Zakas.<br/>
 ![progress](images/jsad.svg)
+
+# Information Security
+
+- reading the book _Hacking a Próxima Geração_ by Nitesh Dhanjan, Billy Rios, and Brett Hardin.<br/>
+![progress](images/hapg.svg)

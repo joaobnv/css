@@ -75,12 +75,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _The Pratice of Programming_ by Brian Kerninghan, and Rob Pike.
 
-# Information Security
-
-## Books
-
-- _Hacking a Próxima Geração_ by Nitesh Dhanjan, Billy Rios, and Brett Hardin.
-
 # Computer Networks
 
 ## Books
