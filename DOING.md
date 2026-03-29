@@ -58,8 +58,6 @@ Here I document some details about what I am currently studying in computer scie
 
 # Programming
 
-- reading the book _Padrões JavaScript_ by Stoyan Stefanov.<br/>
-![progress](images/pjs.svg)
 - reading the book _JavaScript de Alto Desempenho_ by Nicholas Zakas.<br/>
 ![progress](images/jsad.svg)
 
