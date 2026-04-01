@@ -70,3 +70,5 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Visualization Analysis & Design_ by Tamara Munzner.<br/>
 ![progress](images/vad.svg)
+- watching the course [2021 Full-Day Tutorial, IEEE VIS, Visualization Analysis and Design](https://www.youtube.com/playlist?list=PLT4XLHmqHJBdB24LAQPk_PV7wrwpJFh5a).<br/>
+![progress](images/vadc.svg)
