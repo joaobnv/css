@@ -65,3 +65,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Hacking a Próxima Geração_ by Nitesh Dhanjan, Billy Rios, and Brett Hardin.<br/>
 ![progress](images/hapg.svg)
+
+# Data Visualization
+
+- reading the book _Visualization Analysis & Design_ by Tamara Munzner.<br/>
+![progress](images/vad.svg)

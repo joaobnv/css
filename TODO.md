@@ -21,12 +21,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Measure, Integration & Real Analysis_ by Sheldon Axler.
 
-# Data Visualization
-
-## Books
-
-- _Visualization Analysis & Design_ by Tamara Munzner.
-
 # Logic
 
 ## Books
