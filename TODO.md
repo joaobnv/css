@@ -81,12 +81,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Python Eficaz_ by Brett Slatkin.
 
-# Information Security
-
-## Books
-
-- _Segurança de DNS_ by Allan Liska, and Geoffrey Stowe.
-
 # Programming
 
 ## Books
