@@ -63,12 +63,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Windows PowerShell for Developers_ by Douglas Finke.
 
-# Programming
-
-## Books
-
-- _The Pratice of Programming_ by Brian Kerninghan, and Rob Pike.
-
 # Computer Networks
 
 ## Books
