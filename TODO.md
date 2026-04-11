@@ -156,12 +156,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Álgebra Moderna_ by Hygino Hugueros Domingues, and Gelson Iezzi.
 
-# Concurrent Programming
-
-## Books
-
-- _The Art of Multiprocessor Programming_ by Maurice Herlihy, Nir Shavit, Victor Luchangco,and  Michael Spear.
-
 # Compiler Construction
 
 ## Books
