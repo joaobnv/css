@@ -103,6 +103,7 @@ and John Vlissides.
 - _Gradle in Action_ by Benjamin Muschko.
 - _Código Limpo_ by Robert Martin.
 - _Padrões JavaScript_ by Stoyan Stefanov.
+- _JavaScript de Alto Desempenho_ by Nicholas Zakas.
 
 ## Blogs
 
