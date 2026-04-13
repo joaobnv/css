@@ -21,6 +21,8 @@ Here I document some details about what I am currently studying in computer scie
 ![progress](images/mgp.svg)
 - reading the CTAN document _PGF Manual_ by Till Tantau.<br/>
 ![progress](images/pgfm.svg)
+- reading the book _Manual de BPM_ by Jon vom Brocke, and Michael Rosemann.<br/>
+![progress](images/mbpm.svg)
 
 # Artificial Inteligence
 

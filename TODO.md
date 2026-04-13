@@ -88,12 +88,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _The Definitive ANTLR 4 Reference_ by Terence Parr.
 
-# Software Documentation
-
-## Books
-
-- _Manual de BPM_ by Jon vom Brocke, and Michael Rosemann.
-
 # Compiler Construction
 
 ## Books
