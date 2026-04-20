@@ -123,7 +123,6 @@ Here I document some details about what I intend to study. The items are ordered
 ## Books
 
 - _Kotlin em Ação_ by Dmitry Jemerov, and Svetlana Isakova.
-- _A Linguagem de Programação Go_ by Alan Donovan, and Brian Kerninghan.
 
 # Abstract Algebra
 

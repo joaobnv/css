@@ -64,6 +64,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _The Pratice of Programming_ by Brian Kerninghan, and Rob Pike.<br/>
 ![progress](images/tpop.svg)
+- reading the book _A Linguagem de Programação Go_ by Alan Donovan, and Brian Kerninghan.<br/>
+![progress](images/alpg.svg)
 
 # Information Security
 
