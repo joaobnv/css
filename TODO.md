@@ -2,6 +2,12 @@
 
 Here I document some details about what I intend to study. The items are ordered by what I intend to study first.
 
+# Geometry
+
+## Books
+
+- _Schaum's Outline of Geometry_ by Christopher Thomas, and Barnett Rich.
+
 # Logic
 
 ## Books
@@ -74,11 +80,6 @@ Here I document some details about what I intend to study. The items are ordered
 ## Books
 
 - _Python Eficaz_ by Brett Slatkin.
-
-# Programming
-
-## Books
-
 - _Managing Projects with GNU Make_ by Robert Mecklenburg.
 - _Aprendendo Node_ by Shelley Powers.
 
