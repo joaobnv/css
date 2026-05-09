@@ -298,3 +298,9 @@ and Anna Bailliekova.
 
 - _Continuous Delivery_ by Jez Humble, and David Farley.
 - _O Codificador Limpo_ by Robert Martin.
+
+# Information Security
+
+## Books
+
+- _Hacking a Próxima Geração_ by Nitesh Dhanjan, Billy Rios, and Brett Hardin.

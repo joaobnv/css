@@ -69,8 +69,6 @@ Here I document some details about what I am currently studying in computer scie
 
 # Information Security
 
-- reading the book _Hacking a Próxima Geração_ by Nitesh Dhanjan, Billy Rios, and Brett Hardin.<br/>
-![progress](images/hapg.svg)
 - reading the book _Segurança de DNS_ by Allan Liska, and Geoffrey Stowe.<br/>
 ![progress](images/sdd.svg)
 
