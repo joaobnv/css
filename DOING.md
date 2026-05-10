@@ -21,8 +21,6 @@ Here I document some details about what I am currently studying in computer scie
 ![progress](images/mgp.svg)
 - reading the CTAN document _PGF Manual_ by Till Tantau.<br/>
 ![progress](images/pgfm.svg)
-- reading the book _Manual de BPM_ by Jon vom Brocke, and Michael Rosemann.<br/>
-![progress](images/mbpm.svg)
 
 # Artificial Inteligence
 
@@ -78,3 +76,8 @@ Here I document some details about what I am currently studying in computer scie
 ![progress](images/vad.svg)
 - watching the course [2021 Full-Day Tutorial, IEEE VIS, Visualization Analysis and Design](https://www.youtube.com/playlist?list=PLT4XLHmqHJBdB24LAQPk_PV7wrwpJFh5a).<br/>
 ![progress](images/vadc.svg)
+
+# Software Engineering
+
+- reading the book _Trabalho Eficaz com Código Legado_ by Michael Feathers.<br/>
+![progress](images/tecl.svg)

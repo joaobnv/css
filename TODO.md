@@ -113,12 +113,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _RESTful Web Services with Go_ by Naren Yellavula.
 
-# Software Engineering
-
-## Books
-
-- _Trabalho Eficaz com Código Legado_ by Michael Feathers.
-
 # Programming
 
 ## Books
