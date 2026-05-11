@@ -113,12 +113,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _RESTful Web Services with Go_ by Naren Yellavula.
 
-# Programming
-
-## Books
-
-- _Kotlin em Ação_ by Dmitry Jemerov, and Svetlana Isakova.
-
 # Abstract Algebra
 
 ## Books

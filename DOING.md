@@ -64,6 +64,8 @@ Here I document some details about what I am currently studying in computer scie
 ![progress](images/tpop.svg)
 - reading the book _A Linguagem de Programação Go_ by Alan Donovan, and Brian Kerninghan.<br/>
 ![progress](images/alpg.svg)
+- reading the book _Kotlin em Ação_ by Dmitry Jemerov, and Svetlana Isakova.<br/>
+![progress](images/ka.svg)
 
 # Information Security
 
