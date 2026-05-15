@@ -2,12 +2,6 @@
 
 Here I document some details about what I intend to study. The items are ordered by what I intend to study first.
 
-# Geometry
-
-## Books
-
-- _Schaum's Outline of Geometry_ by Christopher Thomas, and Barnett Rich.
-
 # Logic
 
 ## Books
