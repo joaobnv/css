@@ -85,3 +85,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Trabalho Eficaz com Código Legado_ by Michael Feathers.<br/>
 ![progress](images/tecl.svg)
+
+# Algorithms
+
+- reading the book _Estrutura de Dados e Algoritmos em C++_ by Adam Drozdek.<br/>
+![progress](images/edac.svg)

@@ -192,12 +192,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _The C++ Programming Language_ by Bjarne Stroustrup.
 
-# Algorithms
-
-## Books
-
-- _Estrutura de Dados e Algoritmos em C++_ by Adam Drozdek.
-
 # Mathematics for Computer Science
 
 ## Courses
