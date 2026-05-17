@@ -69,11 +69,6 @@ Here I document some details about what I am currently studying in computer scie
 - reading the book _Kotlin em Ação_ by Dmitry Jemerov, and Svetlana Isakova.<br/>
 ![progress](images/ka.svg)
 
-# Information Security
-
-- reading the book _Segurança de DNS_ by Allan Liska, and Geoffrey Stowe.<br/>
-![progress](images/sdd.svg)
-
 # Data Visualization
 
 - reading the book _Visualization Analysis & Design_ by Tamara Munzner.<br/>

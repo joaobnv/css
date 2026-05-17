@@ -304,3 +304,4 @@ and Anna Bailliekova.
 ## Books
 
 - _Hacking a Próxima Geração_ by Nitesh Dhanjan, Billy Rios, and Brett Hardin.
+- _Segurança de DNS_ by Allan Liska, and Geoffrey Stowe.
