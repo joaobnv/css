@@ -104,6 +104,7 @@ and John Vlissides.
 - _Código Limpo_ by Robert Martin.
 - _Padrões JavaScript_ by Stoyan Stefanov.
 - _JavaScript de Alto Desempenho_ by Nicholas Zakas.
+- _The Pratice of Programming_ by Brian Kerninghan, and Rob Pike.
 
 ## Blogs
 
