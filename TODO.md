@@ -82,11 +82,6 @@ Here I document some details about what I intend to study. The items are ordered
 ## Books
 
 - _The Definitive ANTLR 4 Reference_ by Terence Parr.
-
-# Compiler Construction
-
-## Books
-
 - _Language Implementation Patterns_ by Terence Parr.
 
 # Software Engineering
@@ -124,7 +119,6 @@ Here I document some details about what I intend to study. The items are ordered
 ## Books
 
 - _Padrões de Arquitetura de Aplicações Corporativas_ by Martin Fowler.
-- _Domain Driven Design Atacando as Complexidades no Coração do Software_ by Eric Evans.
 
 # Abstract Algebra
 
