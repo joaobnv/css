@@ -1,0 +1,5 @@
+<svg width="880" height="12" xmlns="http://www.w3.org/2000/svg">
+  <rect width="794" height="6" x="1" y="3" rx="3" ry="3" fill="#555" /> <!-- 794: number of html files -->
+  <text x="820" y="12" textLength="60" fill="#AAA" lengthAdjust="">117/794</text>
+  <rect width="117" height="6" x="1" y="3" rx="3" ry="3" fill="#151" />  
+</svg>
