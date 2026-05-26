@@ -306,3 +306,9 @@ and Anna Bailliekova.
 
 - _Hacking a Próxima Geração_ by Nitesh Dhanjan, Billy Rios, and Brett Hardin.
 - _Segurança de DNS_ by Allan Liska, and Geoffrey Stowe.
+
+# Concurrent Programming
+
+## Books
+
+- _Foundations of Multithreaded, Parallel, and Distributed Programming_ by Gregory Andrews.

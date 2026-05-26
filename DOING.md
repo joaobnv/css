@@ -45,8 +45,6 @@ Here I document some details about what I am currently studying in computer scie
 
 # Concurrent Programming
 
-- reading the book _Foundations of Multithreaded, Parallel, and Distributed Programming_ by Gregory Andrews.<br/>
-![progress](images/fmpdp.svg)
 - reading the book _The Art of Multiprocessor Programming_ by Maurice Herlihy, Nir Shavit, Victor Luchangco, and  Michael Spear.<br/>
 ![progress](images/taomp.svg)
 
