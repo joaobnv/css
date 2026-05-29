@@ -9,6 +9,8 @@ Here I document some details about what I am currently studying in computer scie
 - developing the project [mel](https://github.com/joaobnv/mel).
 - watching the course [CMPE 152: Compiler Design](https://www.cs.sjsu.edu/~mak/archive/CMPE152/index.html).<br/>
 ![progress](images/cdc.svg)
+- reading the book _DSL Linguagens Específicas de Domínio_ by Martin Fowler.<br/>
+![progress](images/dsl.svg)
 
 # Geometry
 
