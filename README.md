@@ -230,6 +230,7 @@ Montgomery and George Runger.
 and Anna Bailliekova.
 - _Sistema de Banco de Dados_ by Abraham Silberschatz, Henry Korth, and S Sudarshan.
 - _NoSQL Essencial Um Guia Conciso para o Mundo Emergente da Persistência Poliglota_ by Pramod Sadalage, and Martin Fowler.
+- _Sistemas de Banco de Dados_ by Ramez Elmasri, and Shamkant Navathe.
 
 # Software Documentation
 
