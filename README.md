@@ -105,6 +105,7 @@ and John Vlissides.
 - _Padrões JavaScript_ by Stoyan Stefanov.
 - _JavaScript de Alto Desempenho_ by Nicholas Zakas.
 - _The Pratice of Programming_ by Brian Kerninghan, and Rob Pike.
+- _Kotlin em Ação_ by Dmitry Jemerov, and Svetlana Isakova.
 
 ## Blogs
 
