@@ -132,12 +132,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _Guide to Latex_ by Helmut Kopka, and Patrick Daly.
 
-# Software Engineering
-
-## Books
-
-- _Implementando Domain Driven Design_ by Vaughn Vernon.
-
 # Database Fundamentals
 
 ## Books
