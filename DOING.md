@@ -60,11 +60,6 @@ Here I document some details about what I am currently studying in computer scie
 - reading the book _The Foundations of Mathematics_ by Ian Stewart, and David Tall.<br/>
 ![progress](images/tfm.svg)
 
-# Programming
-
-- reading the book _A Linguagem de Programação Go_ by Alan Donovan, and Brian Kerninghan.<br/>
-![progress](images/alpg.svg)
-
 # Data Visualization
 
 - reading the book _Visualization Analysis & Design_ by Tamara Munzner.<br/>
