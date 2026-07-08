@@ -78,3 +78,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Estrutura de Dados e Algoritmos em C++_ by Adam Drozdek.<br/>
 ![progress](images/edac.svg)
+
+# Real Analysis
+
+- reading the book _Elementary Real Analysis_ by Brian S. Thomson, Judith B. Bruckner, and Andrew M. Bruckner.<br/>
+![progress](images/era.svg)
