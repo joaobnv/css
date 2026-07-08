@@ -69,8 +69,6 @@ Here I document some details about what I am currently studying in computer scie
 
 # Software Engineering
 
-- reading the book _Trabalho Eficaz com Código Legado_ by Michael Feathers.<br/>
-![progress](images/tecl.svg)
 - reading the book _Domain Driven Design Atacando as Complexidades no Coração do Software_ by Eric Evans.<br/>
 ![progress](images/ddd.svg)
 - reading the book _Implementando Domain Driven Design_ by Vaughn Vernon.<br/>

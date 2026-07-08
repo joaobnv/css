@@ -302,6 +302,7 @@ and Anna Bailliekova.
 
 - _Continuous Delivery_ by Jez Humble, and David Farley.
 - _O Codificador Limpo_ by Robert Martin.
+- _Trabalho Eficaz com Código Legado_ by Michael Feathers.
 
 # Information Security
 
