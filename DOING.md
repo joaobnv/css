@@ -64,7 +64,7 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Visualization Analysis & Design_ by Tamara Munzner.<br/>
 ![progress](images/vad.svg)
-- watching the course [2021 Full-Day Tutorial, IEEE VIS, Visualization Analysis and Design](https://www.youtube.com/playlist?list=PLT4XLHmqHJBdB24LAQPk_PV7wrwpJFh5a).<br/>
+- watching the course [Visualization Analysis and Design, 2021, All Lectures](https://www.youtube.com/playlist?list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk).<br/>
 ![progress](images/vadc.svg)
 
 # Software Engineering
@@ -83,3 +83,5 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Elementary Real Analysis_ by Brian S. Thomson, Judith B. Bruckner, and Andrew M. Bruckner.<br/>
 ![progress](images/era.svg)
+- watching the course [MIT 18.100B Real Analysis, Spring 2025](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG)<br/>
+![progress](images/rac.svg)
