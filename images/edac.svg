@@ -1,5 +1,5 @@
 <svg width="650" height="12" xmlns="http://www.w3.org/2000/svg">
   <rect width="600" height="6" x="1" y="3" rx="3" ry="3" fill="#555" />
   <text x="610" y="12" textLength="30" fill="#AAA" lengthAdjust="">5/7</text>
-  <rect width="425" height="6" x="1" y="3" rx="3" ry="3" fill="#151" /> <!-- 5 * 85 -->
+  <rect width="425" height="6" x="1" y="3" rx="3" ry="3" fill="hsl(120 40% 50%)" /> <!-- 5 * 85 -->
 </svg>
