@@ -259,6 +259,7 @@ and Anna Bailliekova.
 ## Books
 
 - _Algoritmos - Teoria e Prática_ by Thomas Cormen, Charles Leiserson, Ronald Rivest, and Clifford Stein.
+- _Estrutura de Dados e Algoritmos em C++_ by Adam Drozdek.
 
 ## Articles
 
