@@ -55,11 +55,6 @@ Here I document some details about what I am currently studying in computer scie
 - reading the [SQLite documentation for SQLite version 3.46.1](https://sqlite.org/2024/sqlite-doc-3460100.zip).<br/>
 ![progress](images/sd34601.svg)
 
-# Foundations of Mathematics
-
-- reading the book _The Foundations of Mathematics_ by Ian Stewart, and David Tall.<br/>
-![progress](images/tfm.svg)
-
 # Data Visualization
 
 - reading the book _Visualization Analysis & Design_ by Tamara Munzner.<br/>

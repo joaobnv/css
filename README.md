@@ -317,3 +317,9 @@ and Anna Bailliekova.
 ## Books
 
 - _Foundations of Multithreaded, Parallel, and Distributed Programming_ by Gregory Andrews.
+
+# Foundations of Mathematics
+
+## Books
+
+- _The Foundations of Mathematics_ by Ian Stewart, and David Tall.
