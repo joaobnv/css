@@ -116,6 +116,7 @@ and John Vlissides.
 
 - _proposal: spec: generic methods for Go_. Last comment I read: [issuecomment-4420947286](https://github.com/golang/go/issues/77273#issuecomment-4420947286). 
 - _proposal: spec: type inferred composite literals_. Last comment I read: [issuecomment-826156324](https://github.com/golang/go/issues/12854#issuecomment-826156324).
+- _proposal: container/...: generic collection types_. Last comment I read: [issuecomment-5146799652](https://github.com/golang/go/issues/80590#issuecomment-5146799652).
 
 # Analytical Geometry
 
