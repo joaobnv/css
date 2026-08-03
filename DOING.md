@@ -16,8 +16,6 @@ Here I document some details about what I am currently studying in computer scie
 
 - watching the course [Geometria Plana](https://www.youtube.com/playlist?list=PLTPg64KdGgYhy8stGM4z2_Hzb3zTfA77Z).<br/>
 ![progress](images/gpc.svg)
-- reading the book _Schaum's Outline of Geometry_ by Christopher Thomas, and Barnett Rich.<br/>
-![progress](images/sog.svg)
 
 # Software Documentation
 

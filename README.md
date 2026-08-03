@@ -213,6 +213,7 @@ and John Vlissides.
 
 - _Geometry_ by Roger Fenn.
 - _The Foundation of Geometry_ by David Hilbert.
+- _Schaum's Outline of Geometry_ by Christopher Thomas, and Barnett Rich.
 
 # Statistics and Probability
 
