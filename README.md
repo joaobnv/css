@@ -215,6 +215,10 @@ and John Vlissides.
 - _The Foundation of Geometry_ by David Hilbert.
 - _Schaum's Outline of Geometry_ by Christopher Thomas, and Barnett Rich.
 
+## Playlists
+
+- [Geometria Plana (Curso Completo)](https://www.youtube.com/playlist?list=PLTPg64KdGgYhy8stGM4z2_Hzb3zTfA77Z).
+
 # Statistics and Probability
 
 ## Books
