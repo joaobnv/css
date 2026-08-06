@@ -13,6 +13,7 @@ meaning I've read everything from the first post up to the one listed.
 - _GitHub Issues_: GitHub issues that I am reading. In each issue I list the
 last comment I read, meaning I've read everything from the first comment up to the one listed.
 - _Towards Dev posts_: posts on Towards Dev that I've read.
+- _Wikipedia Articles_: articles on Wikipedia.
 
 # Discrete Math
 
@@ -180,6 +181,10 @@ and John Vlissides.
 ## Books
 
 - _Programming Language Pragmatics_ by Michael Scott.
+
+## Wikipedia Articles
+
+- [Dataflow programming](https://en.wikipedia.org/wiki/Dataflow_programming).
 
 # Computer Networks
 
