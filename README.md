@@ -14,6 +14,8 @@ meaning I've read everything from the first post up to the one listed.
 last comment I read, meaning I've read everything from the first comment up to the one listed.
 - _Towards Dev posts_: posts on Towards Dev that I've read.
 - _Wikipedia Articles_: articles on Wikipedia.
+- _Google Groups Conversations_ conversations on Google Groups. In each conversation I list the
+last comment I read.
 
 # Discrete Math
 
@@ -118,11 +120,16 @@ and John Vlissides.
 
 - _proposal: spec: generic methods for Go_. Last comment I read: [issuecomment-4420947286](https://github.com/golang/go/issues/77273#issuecomment-4420947286). 
 - _proposal: spec: type inferred composite literals_. Last comment I read: [issuecomment-826156324](https://github.com/golang/go/issues/12854#issuecomment-826156324).
-- _proposal: container/...: generic collection types_. Last comment I read: [issuecomment-5146799652](https://github.com/golang/go/issues/80590#issuecomment-5146799652).
+- _proposal: container/...: generic collection types_. Last comment I read: [issuecomment-5246053488](https://github.com/golang/go/issues/80590#issuecomment-5246053488).
+- _proposal: container/heap/v2: generic heap_. Last comment I read: [issuecomment-5219515966](https://github.com/golang/go/issues/77397#issuecomment-5219515966).
 
 ## Towards Dev posts
 
 - [The Goroutines That Refuse to Die — and How Go 1.26 Finally Made Them Visible](https://towardsdev.com/the-goroutines-that-refuse-to-die-and-how-go-1-26-finally-made-them-visible-52da51317c5b).
+
+## Google Groups Conversations
+
+- _Design patterns in Go_. Last comment I read: [link](https://groups.google.com/g/golang-nuts/c/3fOIZ1VLn1o/m/STEf-I-LAAAJ).
 
 # Analytical Geometry
 
