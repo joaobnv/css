@@ -59,6 +59,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Implementando Domain Driven Design_ by Vaughn Vernon.<br/>
 ![progress](images/iddd.svg)
+- reading the book _Engenharia de software: uma abordagem profissional_ by Roger Pressman and Bruce Maxim.<br/>
+![progress](images/esuap.svg)
 
 # Real Analysis
 
