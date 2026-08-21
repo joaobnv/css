@@ -73,3 +73,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Cálculo Numérico: aprendizagem com apoio de software_ by Selma Arenales, and Artur Darezzo.<br/>
 ![progress](images/cn.svg)
+
+# Computer Architecture
+
+- reading the book _Arquitetura de Computadores: Uma Abordagem Quantitativa_ by David Patterson and John Hennessy.<br/>
+![progress](images/acuaq.svg)
