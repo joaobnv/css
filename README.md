@@ -122,6 +122,7 @@ and John Vlissides.
 - _proposal: spec: type inferred composite literals_. Last comment I read: [issuecomment-826156324](https://github.com/golang/go/issues/12854#issuecomment-826156324).
 - _proposal: container/...: generic collection types_. Last comment I read: [issuecomment-5246053488](https://github.com/golang/go/issues/80590#issuecomment-5246053488).
 - _proposal: container/heap/v2: generic heap_. Last comment I read: [issuecomment-5219515966](https://github.com/golang/go/issues/77397#issuecomment-5219515966).
+- _proposal: container: add tree-based ordered.Map/Set_. Last comment I read: [issuecomment-5336169820](https://github.com/golang/go/issues/60630#issuecomment-5336169820).
 
 ## Towards Dev posts
 
