@@ -124,6 +124,7 @@ and John Vlissides.
 - _proposal: container/heap/v2: generic heap_. Last comment I read: [issuecomment-5219515966](https://github.com/golang/go/issues/77397#issuecomment-5219515966).
 - _proposal: container: add tree-based ordered.Map/Set_. Last comment I read: [issuecomment-5336169820](https://github.com/golang/go/issues/60630#issuecomment-5336169820).
 - _proposal: container/mapset: generic helper functions for using maps as sets_. Last comment I read: [issuecomment-5334211609](https://github.com/golang/go/issues/77052#issuecomment-5334211609).
+- _proposal: container/set: new package to provide a generic set type_. Last comment I read: [issuecomment-5161109422](https://github.com/golang/go/issues/69230#issuecomment-5161109422).
 
 ## Towards Dev posts
 
