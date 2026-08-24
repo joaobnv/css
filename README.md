@@ -125,6 +125,7 @@ and John Vlissides.
 - _proposal: container: add tree-based ordered.Map/Set_. Last comment I read: [issuecomment-5336169820](https://github.com/golang/go/issues/60630#issuecomment-5336169820).
 - _proposal: container/mapset: generic helper functions for using maps as sets_. Last comment I read: [issuecomment-5334211609](https://github.com/golang/go/issues/77052#issuecomment-5334211609).
 - _proposal: container/set: new package to provide a generic set type_. Last comment I read: [issuecomment-5161109422](https://github.com/golang/go/issues/69230#issuecomment-5161109422).
+- _proposal: container/hash: Set: a set based on a hash table that uses the element type's custom hash function and equivalence relation_. Last comment I read: [issuecomment-5182233306](https://github.com/golang/go/issues/80584#issuecomment-5182233306).
 
 ## Towards Dev posts
 
