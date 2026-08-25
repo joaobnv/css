@@ -78,3 +78,8 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Arquitetura de Computadores: Uma Abordagem Quantitativa_ by David Patterson and John Hennessy.<br/>
 ![progress](images/acuaq.svg)
+
+# Operating Systems
+
+- reading the book _Fundamentos de Sistemas Operacionais_ by Abraham Silberschatz, Peter Baer Galvin, and Greg Gagne.<br/>
+![progress](images/fso.svg)
