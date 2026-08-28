@@ -127,6 +127,7 @@ and John Vlissides.
 - _proposal: container/set: new package to provide a generic set type_. Last comment I read: [issuecomment-5161109422](https://github.com/golang/go/issues/69230#issuecomment-5161109422).
 - _proposal: container/hash: Set: a set based on a hash table that uses the element type's custom hash function and equivalence relation_. Last comment I read: [issuecomment-5182233306](https://github.com/golang/go/issues/80584#issuecomment-5182233306).
 - _go/types: add Hasher{,IgnoreTags} types_. Last comment I read: [issuecomment-4682013808](https://github.com/golang/go/issues/69420#issuecomment-4682013808).
+- _hash/maphash: standardize the hash function_. Last comment I read: [issuecomment-3716503222](https://github.com/golang/go/issues/70471#issuecomment-3716503222).
 
 ## Towards Dev posts
 
