@@ -270,6 +270,7 @@ and Anna Bailliekova.
 
 - _Como Escrever Bem_ by William Zinsser.
 - _Gramática da Língua Portuguesa_ by Celso Ferreira da Cunha.
+- _Moderna Gramática Portuguesa_ by Evanildo Bechara.
 
 ## Courses
 
