@@ -355,3 +355,9 @@ and Anna Bailliekova.
 ## Books
 
 - _The Foundations of Mathematics_ by Ian Stewart, and David Tall.
+
+# Numerical methods
+
+## Books
+
+- _Cálculo Numérico: aprendizagem com apoio de software_ by Selma Arenales, and Artur Darezzo.

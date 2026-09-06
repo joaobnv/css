@@ -67,11 +67,6 @@ Here I document some details about what I am currently studying in computer scie
 - watching the course [MIT 18.100B Real Analysis, Spring 2025](https://www.youtube.com/playlist?list=PLUl4u3cNGP62Ie7F_tTAhhXoX5_Cl8meG)<br/>
 ![progress](images/rac.svg)
 
-# Numerical methods
-
-- reading the book _Cálculo Numérico: aprendizagem com apoio de software_ by Selma Arenales, and Artur Darezzo.<br/>
-![progress](images/cn.svg)
-
 # Computer Architecture
 
 - reading the book _Arquitetura de Computadores: Uma Abordagem Quantitativa_ by David Patterson and John Hennessy.<br/>
