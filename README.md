@@ -54,6 +54,7 @@ last comment I read.
 
 - _Compiladores - Princípios, Técnicas e Ferramentas_ by Alfred Aho, Ravi Sethi, Jeffrey Ullman, and Monica Lam.
 - _Modern Compiler Implementation in JAVA_ by Andrew Appel.
+- _DSL Linguagens Específicas de Domínio_ by Martin Fowler.
 
 ## Online Courses
 
