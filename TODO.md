@@ -189,3 +189,9 @@ Here I document some details about what I intend to study. The items are ordered
 ## Courses
 
 - [Álgebra Linear 1](https://www.youtube.com/playlist?list=PLIEzh1OveCVczEZAjhVIVd7Qs-X8ILgnI)
+
+# Compiler Construction
+
+## Books
+
+- [_Understanding and Writing Compilers_](https://www.eis.mdx.ac.uk/staffpages/r_bornat/books/compiling.pdf) by Richard Bornat.
