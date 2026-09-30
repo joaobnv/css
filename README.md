@@ -59,6 +59,7 @@ last comment I read.
 ## Online Courses
 
 - [Compilers](https://www.edx.org/learn/computer-science/stanford-university-compilers?index=product&queryId=fdadfb856de3abed6535b26382624de5&position=1)
+- [CMPE 152: Compiler Design](https://www.cs.sjsu.edu/~mak/archive/CMPE152/index.html).
 
 # Overview of Computer Science
 
