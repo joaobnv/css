@@ -72,3 +72,5 @@ Here I document some details about what I am currently studying in computer scie
 
 - reading the book _Fundamentos de Sistemas Operacionais_ by Abraham Silberschatz, Peter Baer Galvin, and Greg Gagne.<br/>
 ![progress](images/fso.svg)
+- watching the course [CMPE 142 Operating Systems](https://www.cs.sjsu.edu/~mak/archive/CMPE142/index.html).<br/>
+![progress](images/mos.svg)
