@@ -131,6 +131,7 @@ and John Vlissides.
 - _go/types: add Hasher{,IgnoreTags} types_. Last comment I read: [issuecomment-4682013808](https://github.com/golang/go/issues/69420#issuecomment-4682013808).
 - _hash/maphash: standardize the hash function_. Last comment I read: [issuecomment-3716503222](https://github.com/golang/go/issues/70471#issuecomment-3716503222).
 - _hash/maphash: add func Comparable_. Last comment I read: [issuecomment-2357690180](https://github.com/golang/go/issues/54670#issuecomment-2357690180).
+- _proposal: spec: change int to be arbitrary precision_. Last comment I read: [issuecomment-323546206](https://github.com/golang/go/issues/19623#issuecomment-323546206).
 
 ## Towards Dev posts
 
