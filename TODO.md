@@ -83,17 +83,6 @@ Here I document some details about what I intend to study. The items are ordered
 
 - _The Definitive ANTLR 4 Reference_ by Terence Parr.
 - _Language Implementation Patterns_ by Terence Parr.
-
-# Software Engineering
-
-## Books
-
-- _Analysis Patterns_ by Martin Fowler.
-
-# Compiler Construction
-
-## Books
-
 - _Lex and Yacc_ by Doug Brown, John Levine, and Tony Mason.
 
 # WEB Programming

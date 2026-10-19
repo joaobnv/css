@@ -55,6 +55,8 @@ Here I document some details about what I am currently studying in computer scie
 ![progress](images/iddd.svg)
 - reading the book _Engenharia de software: uma abordagem profissional_ by Roger Pressman and Bruce Maxim.<br/>
 ![progress](images/esuap.svg)
+- reading the book _Analysis Patterns_ by Martin Fowler.<br/>
+![progress](images/ap.svg)
 
 # Real Analysis
 
