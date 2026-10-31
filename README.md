@@ -133,6 +133,7 @@ and John Vlissides.
 - _hash/maphash: add func Comparable_. Last comment I read: [issuecomment-2357690180](https://github.com/golang/go/issues/54670#issuecomment-2357690180).
 - _proposal: spec: change int to be arbitrary precision_. Last comment I read: [issuecomment-323546206](https://github.com/golang/go/issues/19623#issuecomment-323546206).
 - _proposal: Go 2: string interpolation_. Last comment I read: [issuecomment-577017512](https://github.com/golang/go/issues/34174#issuecomment-577017512).
+- _encoding: add AppendText and AppendBinary_ [issuecomment-2536736908](https://github.com/golang/go/issues/62384#issuecomment-2536736908). 
 
 ## Towards Dev posts
 
