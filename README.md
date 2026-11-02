@@ -341,6 +341,7 @@ and Anna Bailliekova.
 - _O Codificador Limpo_ by Robert Martin.
 - _Trabalho Eficaz com Código Legado_ by Michael Feathers.
 - _Domain Driven Design Atacando as Complexidades no Coração do Software_ by Eric Evans.
+- _Implementando Domain Driven Design_ by Vaughn Vernon.
 
 # Information Security
 
