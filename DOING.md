@@ -42,11 +42,6 @@ Here I document some details about what I am currently studying in computer scie
 - reading the [SQLite documentation for SQLite version 3.46.1](https://sqlite.org/2024/sqlite-doc-3460100.zip).<br/>
 ![progress](images/sd34601.svg)
 
-# Data Visualization
-
-- watching the course [Visualization Analysis and Design, 2021, All Lectures](https://www.youtube.com/playlist?list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk).<br/>
-![progress](images/vadc.svg)
-
 # Software Engineering
 
 - reading the book _Engenharia de software: uma abordagem profissional_ by Roger Pressman and Bruce Maxim.<br/>

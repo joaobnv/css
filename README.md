@@ -373,3 +373,7 @@ and Anna Bailliekova.
 ## Books
 
 - _Visualization Analysis & Design_ by Tamara Munzner.
+
+## Online Courses
+
+- [Visualization Analysis and Design, 2021, All Lectures](https://www.youtube.com/playlist?list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk).
