@@ -367,3 +367,9 @@ and Anna Bailliekova.
 ## Books
 
 - _Cálculo Numérico: aprendizagem com apoio de software_ by Selma Arenales, and Artur Darezzo.
+
+# Data Visualization
+
+## Books
+
+- _Visualization Analysis & Design_ by Tamara Munzner.

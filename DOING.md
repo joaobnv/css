@@ -44,8 +44,6 @@ Here I document some details about what I am currently studying in computer scie
 
 # Data Visualization
 
-- reading the book _Visualization Analysis & Design_ by Tamara Munzner.<br/>
-![progress](images/vad.svg)
 - watching the course [Visualization Analysis and Design, 2021, All Lectures](https://www.youtube.com/playlist?list=PLT4XLHmqHJBeB5LwmRmo6ln-m7K3lGvrk).<br/>
 ![progress](images/vadc.svg)
 
